@@ -13,7 +13,20 @@ body {
 .head {
     position: relative;
   }
-  .navbar {
+.con{
+    padding-top: 30px;
+}
+.con ul{
+    display:flex;
+    
+
+}
+.con ul li{
+    text-decoration: none;
+    justify-content: space-between;
+    
+}
+  /* .navbar {
     z-index: 1000;
     background: rgb(0, 0, 0, 0.5);
     padding: 1rem 3rem;
@@ -50,4 +63,4 @@ body {
     text-decoration: none;
     color: #000;
   }
-
+ */
